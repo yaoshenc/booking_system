@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  bootstrap-icons:
+    specifier: ^1.11.2
+    version: 1.11.2
+
+packages:
+
+  /bootstrap-icons@1.11.2:
+    resolution: {integrity: sha512-TgdiPv+IM9tgDb+dsxrnGIyocsk85d2M7T0qIgkvPedZeoZfyeG/j+yiAE4uHCEayKef2RP05ahQ0/e9Sv75Wg==}
+    dev: false
